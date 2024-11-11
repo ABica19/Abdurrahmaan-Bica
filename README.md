@@ -1,5 +1,5 @@
 # Peace be upon you,👋<br>  My name is Abdurrahmaan Bica.<br><br>
-🎓Studying [Mechatronics Engineering](https://www.hochschule-bochum.de/en/studies/study-programmes/bachelors-degree/mechatronics/) at BO Bochum University of Applied Sciences<br/><br>🚵🤼 Love Sports<br/><br>🌱 Currently learning about Spring!<br/>
+🎓Studying [Mechatronics Engineering](https://www.hochschule-bochum.de/en/studies/study-programmes/bachelors-degree/mechatronics/) at BO Bochum University of Applied Sciences<br/><br>🚵🤼 Love Sports<br/><br>🌱 Currently learning about Spring and React!<br/>
 
 
 # 💻 Tech Stack:
