@@ -1,5 +1,5 @@
 # Peace be upon you👋
-🎓Studying [Mechatronics Engineering](https://www.hochschule-bochum.de/en/studies/study-programmes/bachelors-degree/mechatronics/) at BO Bochum University of Applied Sciences<br/><br>🚵🤼 Love Sports<br/><br>🌱 Currently learning about Spring and React!<br/>
+🎓Studying [Mechatronics Engineering](https://www.hochschule-bochum.de/en/studies/study-programmes/bachelors-degree/mechatronics/) at BO Bochum University of Applied Sciences<br/><br>🚵🤼 Love Sports<br/><br>🌱 Currently learning about C and Spring!<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdurrahmaan-Bica&theme=calm&hide_border=false&include_all_commits=false&count_private=true)<br/>
